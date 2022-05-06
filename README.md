@@ -1,5 +1,5 @@
 # visualstudio-deb-linux
-Visual Studio Code Deb for Linux
+Bugtracker for Visual Studio Code Deb for Linux
 
 #github Rep coming soon...
 
